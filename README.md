@@ -2,7 +2,7 @@
 
 Meu nome é Gabriel Matoso rovaris
 
-- Estou estudando na alura
+- Estou estudando na [Alura] (https://WWW.Alura.com.br)
 - Estou me desenvolvendo na linguagem Javascript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
